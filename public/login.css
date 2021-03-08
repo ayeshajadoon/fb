@@ -1,0 +1,219 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.main{
+	background-color: #ffffff;
+	display: inline-block;
+	width:100%;
+}
+
+.main_div{
+	background-color: #F5F9FF;
+	display: block;
+	height: 700px;	
+}
+
+.div2{
+	padding-top: 112px;
+	padding-bottom: 72px;	
+	height: 800px;
+	width:100%;
+}
+.faceboook{
+	margin-top: 30px;
+}
+
+.div3{
+	padding-left: 10%;
+	padding-right: 10%;
+	height: 800px;
+	width:100%;
+}
+
+.facebook{
+	color: #1877f2;
+	font-family: Segoe UI;
+	font-size: 62px;
+	font-weight: bold;
+	display: inline-block;
+	margin-top: 0px;
+}
+
+.fb_div{
+	padding-top: 28px;
+	padding-left: 190px;
+	display: inline-block;
+	height: 100px;
+}
+
+.para1{
+	margin-top: 0px;
+	font-family: arial;
+	font-size: 30px;
+	color: #333;
+}
+
+.para_div{
+	padding-left: 100px;
+	float: left;
+	display: inline-block;
+}
+
+.login_div{
+	background-color: #ffffff;
+	border-radius: 8px;		
+	padding-bottom: 24px;
+	padding-top: 10px;
+	height: 350px;
+	width:396px;
+	box-sizing: border-box;
+	box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.2), 0 4px 18px 0 rgba(0, 0, 0, 0.17);
+	
+}
+
+.div4{
+	height: 400px;
+	width: 396px;
+	display: inline-block;
+	float: left;
+}
+.downpara{
+	color: #444444;
+	margin-top: 25px;
+}
+
+.para2{
+	font-family: arial;
+	font-size: 15px;
+	margin-top: 10px;
+}
+.page{
+	color: #000000;
+	font-weight: bolder;
+	text-decoration: none;
+}
+.page:hover{
+	text-decoration: underline;
+}
+.email{
+	font-size: 17px;
+    padding-top:14px; 
+    padding-right:16px;
+    padding-bottom:14px; 
+    padding-left:16px;
+    width: 330px;
+    height: 22px;
+    color: #444444;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: 1px solid #959393;
+}
+.password{
+	font-size: 17px;
+    padding-top:14px; 
+    padding-right:16px;
+    padding-bottom:14px; 
+    padding-left:16px;
+    width: 330px;
+    height: 22px;
+    color: #444444;
+    margin-top: 12px;
+    border-radius: 6px;
+    border: 1px solid #959393;
+}
+
+.button{
+
+	font-size: 20px;
+    padding-top:0px; 
+    padding-right:16px;
+    padding-bottom:0px; 
+    padding-left:16px;
+    color: #ffffff;
+    border-radius: 6px;
+    margin-top: 12px;
+	background-color: #1877f2;
+	width: 360px;
+    height: 53px;
+    font-weight: bolder;
+    border: 1px solid #1877f2;
+
+
+}
+.account{
+	color: #1877f2;
+	text-align: center;
+	font-family: arial;
+	text-decoration: none;
+	font-size: 15px;
+
+
+}
+.account:hover{
+	text-decoration: underline;
+}
+
+.button_1{
+	margin-top: 7px;
+	background-color: #42b72a;
+	color: #ffffff;
+	height: 56px;
+	width: 200px;
+	font-family: arial;
+	font-size: 18px;
+	font-weight: bolder;
+	border-color: #42b72a;
+	border-radius: 6px;
+	border:1px solid #42b72a;
+
+
+}
+
+.fb_footer{
+	margin-left: 400px;
+	width:700px;
+	display: inline-block;
+	font-size: 12px;
+	color: #385898;
+	height: 100px;
+}
+
+.lang{
+	display: inline-block;
+	text-align: left;		
+}
+
+.l{
+	width:30px;
+	height: 17px;
+	margin-left: 10px;
+	text-decoration: none;
+	color: #385898;
+
+}
+.a{
+	width:30px;
+	height: 17px;
+	text-decoration: none;
+	color: #385898;
+}
+.a:hover{
+	text-decoration: underline;
+}
+
+.l:hover{
+	text-decoration: underline;
+}
+
+.fbb{
+	margin-left: 400px;
+	font-size: 12px;
+	color: #737373;
+}
+
+.new_account{
+	text-decoration: none;
+	color: #ffffff;
+}
